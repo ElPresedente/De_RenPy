@@ -4,21 +4,16 @@ UnRPA + UnRPYC + CMD = De_RenPy [afternoon project]
 This is something i put together to **speed up** and **¿simplify?** decompiling RenPy games using UNRPA and UNRPYC. Hopefully other souls will find it at least slightly usefull. 
 
 **De_RenPy requires:**  
-Python 3.x for unrpa
-
-Python 2.7 for unrpyc
+Python 3.x for unrpa  
+Python 2.7 for unrpyc  
 
 **Installation:**
 
-git clone https://github.com/ElPresedente/De_RenPy
-
-cd De_RenPy
-
-git submodule init
-
-git submodule update --remote
-
-pip install unrpa
+git clone https://github.com/ElPresedente/De_RenPy  
+cd De_RenPy  
+git submodule init  
+git submodule update --remote  
+pip install unrpa  
 
 
 When everything is ready just run **De_RenPy.bat** and go 1,2,3 wild.
