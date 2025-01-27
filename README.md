@@ -6,10 +6,13 @@ This is something i put together to **speed up** and **¿simplify?** decompiling
 **De_RenPy requires:**  
 Python 3.x for unrpa
 Python 2.7 for unrpyc
-Unrpyc-master in root directory (Download - https://github.com/CensoredUsername/unrpyc)  
-Unrpa (installed from pip (pip install unrpa))
 
-unrpyc forler should be in De_RenPy folder (clone this repo, cd in it, clone unrpyc repo).  
+**Installation:**
+git clone https://github.com/ElPresedente/De_RenPy
+cd De_RenPy
+git submodule init
+git submodule update --remote
+pip install unrpa
 
 When everything is ready just run **De_RenPy.bat** and go 1,2,3 wild.
 
@@ -22,3 +25,4 @@ Menu:
 **(5) - Exits this mess**
 
 Made by xaxa9551, modified by ElPresedente
+
